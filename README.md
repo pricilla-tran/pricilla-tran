@@ -2,7 +2,7 @@
 <h2> 🚀 &nbsp;Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,js,py,vim" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,py,bash,ts" />
   </a>
 </p>
 <h2> 🚀 &nbsp;Frameworks</h2>
