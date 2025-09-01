@@ -6,13 +6,13 @@
 <h2> 📔 &nbsp;Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,py,bash,ts" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,py,bash,ts,java" />
   </a>
 </p>
 <h2> 🚀 &nbsp;Frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,electron,c,vim" />
+    <img src="https://skillicons.dev/icons?i=react,d3,materialui,nodejs,electron,express,mongodb,redux" />
   </a>
 </p>
 <!--
