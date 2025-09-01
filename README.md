@@ -1,8 +1,14 @@
 ## Hi, I am Pricilla Tran 👩‍💻
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,js,py,vim" />
+  </a>
+</p>
+<h2> 🚀 &nbsp;Frameworks</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,electron,c,vim" />
   </a>
 </p>
 <!--
